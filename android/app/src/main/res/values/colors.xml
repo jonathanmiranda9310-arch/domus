@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores da identidade visual do Domus -->
+    <color name="domus_indigo">#4F46E5</color>
+    <color name="domus_branco">#FFFFFF</color>
+</resources>

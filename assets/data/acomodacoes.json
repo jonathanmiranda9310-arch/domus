@@ -1,0 +1,510 @@
+[
+  {
+    "id": 1,
+    "nome": "Hotel Cabo Branco Mar",
+    "categoria": "hotel",
+    "descricao": "Hotel de frente para a orla do Cabo Branco, a poucos minutos da Ponta do Seixas, o ponto mais oriental das Américas. Quartos amplos, varanda com vista para o mar e café da manhã regional servido até as 10h.",
+    "endereco": "Av. Cabo Branco, 2500",
+    "bairro": "Cabo Branco",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "valor_diaria": 320,
+    "nota_media": 4.7,
+    "total_avaliacoes": 412,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "piscina",
+      "vistaMar"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pousada Recanto de Tambaú",
+    "categoria": "pousada",
+    "descricao": "Pousada aconchegante a duas quadras da praia de Tambaú, com jardim interno, rede na varanda e atendimento familiar. Ótima opção custo-benefício para quem quer explorar a cidade a pé.",
+    "endereco": "Rua Coração de Jesus, 145",
+    "bairro": "Tambaú",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "valor_diaria": 180,
+    "nota_media": 4.6,
+    "total_avaliacoes": 238,
+    "capacidade_maxima": 3,
+    "fotos": [
+      "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Quarto Estudante Centro Histórico",
+    "categoria": "quarto",
+    "descricao": "Quarto individual em casa compartilhada, perto do Centro Histórico e de linhas de ônibus para as universidades. Ambiente silencioso, mesa de estudos e cozinha de uso comum.",
+    "endereco": "Rua Duque de Caxias, 380",
+    "bairro": "Centro",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "valor_diaria": 75,
+    "nota_media": 4.3,
+    "total_avaliacoes": 64,
+    "capacidade_maxima": 1,
+    "fotos": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cozinha"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Manaíra Business Hotel",
+    "categoria": "hotel",
+    "descricao": "Hotel executivo ao lado do Manaíra Shopping, com sala de reuniões, academia 24h e check-in expresso. Ideal para viagens de trabalho.",
+    "endereco": "Av. Gov. Flávio Ribeiro Coutinho, 805",
+    "bairro": "Manaíra",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "valor_diaria": 260,
+    "nota_media": 4.4,
+    "total_avaliacoes": 301,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "academia",
+      "tv"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Boa Viagem Praia Hotel",
+    "categoria": "hotel",
+    "descricao": "Hotel tradicional na avenida beira-mar de Boa Viagem, com piscina na cobertura e vista panorâmica do Recife. Perto de restaurantes, farmácias e do Shopping Recife.",
+    "endereco": "Av. Boa Viagem, 4070",
+    "bairro": "Boa Viagem",
+    "cidade": "Recife",
+    "estado": "PE",
+    "valor_diaria": 345,
+    "nota_media": 4.5,
+    "total_avaliacoes": 520,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "piscina",
+      "vistaMar",
+      "tv"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Pousada Olinda Alta",
+    "categoria": "pousada",
+    "descricao": "Casarão colonial restaurado no alto da Sé, em Olinda, com vista para o mar e para os telhados coloridos do sítio histórico. Café da manhã com tapioca feita na hora.",
+    "endereco": "Rua do Amparo, 92",
+    "bairro": "Carmo",
+    "cidade": "Olinda",
+    "estado": "PE",
+    "valor_diaria": 210,
+    "nota_media": 4.8,
+    "total_avaliacoes": 189,
+    "capacidade_maxima": 3,
+    "fotos": [
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "vistaMar",
+      "aceitaPets"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Quarto Compartilhado Recife Antigo",
+    "categoria": "quarto",
+    "descricao": "Quarto privativo em apartamento no Recife Antigo, perto do Marco Zero e do Paço do Frevo. Anfitriã simpática e muitas dicas da cidade.",
+    "endereco": "Rua do Bom Jesus, 210",
+    "bairro": "Recife Antigo",
+    "cidade": "Recife",
+    "estado": "PE",
+    "valor_diaria": 95,
+    "nota_media": 4.2,
+    "total_avaliacoes": 77,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "arCondicionado",
+      "cozinha"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Ponta Negra Resort",
+    "categoria": "hotel",
+    "descricao": "Resort pé na areia com vista para o Morro do Careca, piscina com borda infinita e kids club. Pacote com passeio às dunas de Genipabu disponível na recepção.",
+    "endereco": "Av. Engenheiro Roberto Freire, 9100",
+    "bairro": "Ponta Negra",
+    "cidade": "Natal",
+    "estado": "RN",
+    "valor_diaria": 480,
+    "nota_media": 4.9,
+    "total_avaliacoes": 865,
+    "capacidade_maxima": 5,
+    "fotos": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "piscina",
+      "academia",
+      "vistaMar",
+      "tv"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Pousada Sol de Pipa",
+    "categoria": "pousada",
+    "descricao": "Chalés cercados de mata atlântica a 5 minutos a pé do centrinho de Pipa. Piscina, redário e trilha até o mirante dos golfinhos.",
+    "endereco": "Rua dos Golfinhos, 40",
+    "bairro": "Centro",
+    "cidade": "Tibau do Sul",
+    "estado": "RN",
+    "valor_diaria": 290,
+    "nota_media": 4.7,
+    "total_avaliacoes": 344,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "piscina",
+      "aceitaPets"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Copacabana Atlântico Hotel",
+    "categoria": "hotel",
+    "descricao": "Hotel clássico a uma quadra da praia de Copacabana, perto do metrô Cardeal Arcoverde. Quartos renovados e rooftop com vista para o Pão de Açúcar.",
+    "endereco": "Rua Siqueira Campos, 90",
+    "bairro": "Copacabana",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "valor_diaria": 410,
+    "nota_media": 4.3,
+    "total_avaliacoes": 1290,
+    "capacidade_maxima": 3,
+    "fotos": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "piscina",
+      "tv"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Quarto Santa Teresa Vista",
+    "categoria": "quarto",
+    "descricao": "Quarto charmoso em casa antiga de Santa Teresa, com varanda voltada para a Baía de Guanabara. Perto do bondinho e dos ateliês do bairro.",
+    "endereco": "Rua Almirante Alexandrino, 1200",
+    "bairro": "Santa Teresa",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "valor_diaria": 140,
+    "nota_media": 4.6,
+    "total_avaliacoes": 152,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1561501900-3701fa6a0864?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "cozinha"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Paulista Prime Hotel",
+    "categoria": "hotel",
+    "descricao": "Hotel moderno na Avenida Paulista, a poucos passos do MASP e da estação Trianon-Masp. Quartos com isolamento acústico e coworking no térreo.",
+    "endereco": "Av. Paulista, 1480",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "valor_diaria": 370,
+    "nota_media": 4.5,
+    "total_avaliacoes": 980,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "academia",
+      "tv"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Quarto Vila Madalena",
+    "categoria": "quarto",
+    "descricao": "Quarto individual em apartamento compartilhado na Vila Madalena, cercado de bares, cafés e grafites do Beco do Batman. Ótimo para estudantes e viajantes solo.",
+    "endereco": "Rua Aspicuelta, 300",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "valor_diaria": 110,
+    "nota_media": 4.1,
+    "total_avaliacoes": 98,
+    "capacidade_maxima": 1,
+    "fotos": [
+      "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cozinha",
+      "tv"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Pousada Bosque de Gramado",
+    "categoria": "pousada",
+    "descricao": "Pousada estilo enxaimel entre pinheiros, a 800 m da Rua Coberta. Lareira na sala de estar, café colonial e chocolate quente à tarde.",
+    "endereco": "Rua Pedro Benetti, 77",
+    "bairro": "Planalto",
+    "cidade": "Gramado",
+    "estado": "RS",
+    "valor_diaria": 330,
+    "nota_media": 4.8,
+    "total_avaliacoes": 410,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "estacionamento",
+      "tv",
+      "aceitaPets"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Casa Azul de Jacumã",
+    "categoria": "pousada",
+    "descricao": "Casa de praia com varanda, rede e jardim tropical a 100 m da falésia de Jacumã. Três quartos aconchegantes, churrasqueira e café da manhã servido na varanda. Perfeita para famílias e grupos de amigos.",
+    "endereco": "Rua das Falésias, 18",
+    "bairro": "Jacumã",
+    "cidade": "Conde",
+    "estado": "PB",
+    "valor_diaria": 380,
+    "nota_media": 4.9,
+    "total_avaliacoes": 126,
+    "capacidade_maxima": 6,
+    "fotos": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "estacionamento",
+      "cozinha",
+      "aceitaPets",
+      "vistaMar"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Loft Tambaú Vista Mar",
+    "categoria": "quarto",
+    "descricao": "Loft moderno no 12º andar, com janela panorâmica para o mar de Tambaú. Cama queen, cozinha compacta e estação de trabalho — ótimo para quem viaja a trabalho e quer pôr do sol de presente.",
+    "endereco": "Av. Almirante Tamandaré, 610",
+    "bairro": "Tambaú",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "valor_diaria": 165,
+    "nota_media": 4.8,
+    "total_avaliacoes": 88,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "arCondicionado",
+      "cozinha",
+      "tv",
+      "vistaMar"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Chalé Pedra Branca",
+    "categoria": "pousada",
+    "descricao": "Chalé de madeira no alto da serra, com lareira, banheira e vista para o vale. Silêncio absoluto, trilhas e um café colonial caprichado pela manhã.",
+    "endereco": "Estrada do Mirante, km 4",
+    "bairro": "Zona Rural",
+    "cidade": "Bananeiras",
+    "estado": "PB",
+    "valor_diaria": 270,
+    "nota_media": 4.9,
+    "total_avaliacoes": 203,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "estacionamento",
+      "aceitaPets"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Porto Bello Hotel",
+    "categoria": "hotel",
+    "descricao": "Hotel à beira das piscinas naturais de Porto de Galinhas, com spa, piscina aquecida e restaurante de frutos do mar. Passeio de jangada saindo da recepção.",
+    "endereco": "Rua da Esperança, 220",
+    "bairro": "Centro",
+    "cidade": "Porto de Galinhas",
+    "estado": "PE",
+    "valor_diaria": 520,
+    "nota_media": 4.8,
+    "total_avaliacoes": 742,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "piscina",
+      "academia",
+      "vistaMar",
+      "tv"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Casa Coqueiral Maragogi",
+    "categoria": "pousada",
+    "descricao": "Casinha pé na areia entre coqueiros, a poucos minutos das galés de Maragogi. Deck com espreguiçadeiras, caiaque disponível e café regional incluso.",
+    "endereco": "Rodovia AL-101 Norte, 3200",
+    "bairro": "Burgalhau",
+    "cidade": "Maragogi",
+    "estado": "AL",
+    "valor_diaria": 310,
+    "nota_media": 4.7,
+    "total_avaliacoes": 167,
+    "capacidade_maxima": 4,
+    "fotos": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "cafeDaManha",
+      "arCondicionado",
+      "estacionamento",
+      "vistaMar"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Quarto Jardim Iracema",
+    "categoria": "quarto",
+    "descricao": "Quarto privativo com banheiro em casa de vila na Praia de Iracema, perto do Dragão do Mar e da Ponte dos Ingleses. Anfitriões super receptivos.",
+    "endereco": "Rua dos Tabajaras, 455",
+    "bairro": "Praia de Iracema",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "valor_diaria": 89,
+    "nota_media": 4.5,
+    "total_avaliacoes": 71,
+    "capacidade_maxima": 2,
+    "fotos": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=800&q=80&auto=format&fit=crop"
+    ],
+    "comodidades": [
+      "wifi",
+      "arCondicionado",
+      "cozinha"
+    ]
+  }
+]
